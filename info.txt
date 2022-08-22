@@ -1,0 +1,11 @@
+Step 1: Goto google developer account & create an API
+Step 2: Download JSON file & ready your DATA set as CSV format 
+Step3 3: All 3 files indexing.py, data.csv, apidetails.json store in a folder 
+
+================= ******* ===================
+
+> Install pip install Oauth2client httplib2
+> pip install pandas
+> Goto project folder then run indexing.py as "python indexing.py"
+
+================= ******* ===================
